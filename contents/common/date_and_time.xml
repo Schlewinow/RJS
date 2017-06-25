@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<date_and_time>
+	<months>
+		<month value="1">
+			<kana>いちがつ</kana>
+			<kanji>一月</kanji>
+		</month>
+		<month value="2">
+			<kana>にがつ</kana>
+			<kanji>二月</kanji>
+		</month>
+		<month value="3">
+			<value>3</value>
+			<kana>さんがつ</kana>
+			<kanji>三月</kanji>
+		</month>
+		<month value="4">
+			<kana>しがつ</kana>
+			<kanji>四月</kanji>
+		</month>
+		<month value="5">
+			<kana>ごがつ</kana>
+			<kanji>五月</kanji>
+		</month>
+		<month value="6">
+			<kana>ろくがつ</kana>
+			<kanji>六月</kanji>
+		</month>
+		<month  value="7">
+			<kana>しちがつ</kana>
+			<kanji>七月</kanji>
+		</month>
+		<month value="8">
+			<kana>はちがつ</kana>
+			<kanji>八月</kanji>
+		</month>
+		<month value="9">
+			<kana>くがつ</kana>
+			<kanji>九月</kanji>
+		</month>
+		<month value="10">
+			<kana>じゅうがつ</kana>
+			<kanji>十月</kanji>
+		</month>
+		<month value="11">
+			<kana>じゅういちがつ</kana>
+			<kanji>十一月</kanji>
+		</month>
+		<month value="12">
+			<kana>じゅうにがつ</kana>
+			<kanji>十二月</kanji>
+		</month>
+	</months>
+	<days>
+		<day value="1">
+			<kana>ついたち</kana>
+			<kanji>一日</kanji>
+		</day>
+		<day value="2">
+			<kana>ふつか</kana>
+			<kanji>二日</kanji>
+		</day>
+		<day value="3">
+			<kana>みっか</kana>
+			<kanji>三日</kanji>
+		</day>
+		<day value="4">
+			<kana>よっか</kana>
+			<kanji>四日</kanji>
+		</day>
+		<day value="5">
+			<kana>いつか</kana>
+			<kanji>五日</kanji>
+		</day>
+		<day value="6">
+			<kana>むいか</kana>
+			<kanji>六日</kanji>
+		</day>
+		<day value="7">
+			<kana>なのか</kana>
+			<kanji>七日</kanji>
+		</day>
+		<day value="8">
+			<kana>ようか</kana>
+			<kanji>八日</kanji>
+		</day>
+		<day value="9">
+			<kana>ここのか</kana>
+			<kanji>九日</kanji>
+		</day>
+		<day value="10">
+			<kana>とおか</kana>
+			<kanji>十日</kanji>
+		</day>
+		<day value="11">
+			<kana>じゅういちにち</kana>
+			<kanji>十一日</kanji>
+		</day>
+		<day value="12">
+			<kana>じゅうににち</kana>
+			<kanji>十二日</kanji>
+		</day>
+		<day value="13">
+			<kana>じゅうさんにち</kana>
+			<kanji>十三日</kanji>
+		</day>
+		<day value="14">
+			<kana>じゅうよっか</kana>
+			<kanji>十四日</kanji>
+		</day>
+		<day value="15">
+			<kana>じゅうごにち</kana>
+			<kanji>十五日</kanji>
+		</day>
+		<day value="16">
+			<kana>じゅうろくにち</kana>
+			<kanji>十六日</kanji>
+		</day>
+		<day value="17">
+			<kana>じゅうななにち</kana>
+			<kanji>十七日</kanji>
+		</day>
+		<day value="18">
+			<kana>じゅうはちにち</kana>
+			<kanji>十八日</kanji>
+		</day>
+		<day value="19">
+			<kana>じゅうくにち</kana>
+			<kanji>十九日</kanji>
+		</day>
+		<day value="20">
+			<kana>はつか</kana>
+			<kanji>二十日</kanji>
+		</day>
+		<day value="21">
+			<kana>にじゅういちにち</kana>
+			<kanji>二十一日</kanji>
+		</day>
+		<day value="22">
+			<kana>にじゅうににち</kana>
+			<kanji>二十二日</kanji>
+		</day>
+		<day value="23">
+			<kana>にじゅうさんにち</kana>
+			<kanji>二十三日</kanji>
+		</day>
+		<day value="24">
+			<kana>にじゅうよっか</kana>
+			<kanji>二十四日</kanji>
+		</day>
+		<day value="25">
+			<kana>にじゅうごにち</kana>
+			<kanji>二十五日</kanji>
+		</day>
+		<day value="26">
+			<kana>にじゅうろくにち</kana>
+			<kanji>二十六日</kanji>
+		</day>
+		<day value="27">
+			<kana>にじゅうななにち</kana>
+			<kanji>二十七日</kanji>
+		</day>
+		<day value="28">
+			<kana>にじゅうはちにち</kana>
+			<kanji>二十八日</kanji>
+		</day>
+		<day value="29">
+			<kana>にじゅうくにち</kana>
+			<kanji>二十九日</kanji>
+		</day>
+		<day value="30">
+			<kana>さんじゅうにち</kana>
+			<kanji>三十日</kanji>
+		</day>
+		<day value="31">
+			<kana>さんじゅういちにち</kana>
+			<kanji>三十一日</kanji>
+		</day>
+	</days>
+	<hours>
+		<hour value="1">
+			<kana>いちじ</kana>
+			<kanji>一時</kanji>
+		</hour>
+		<hour value="2">
+			<kana>にじ</kana>
+			<kanji>二時</kanji>
+		</hour>
+		<hour value="3">
+			<kana>さんじ</kana>
+			<kanji>三時</kanji>
+		</hour>
+		<hour value="4">
+			<kana>よじ</kana>
+			<kanji>四時</kanji>
+		</hour>
+		<hour value="5">
+			<kana>ごじ</kana>
+			<kanji>五時</kanji>
+		</hour>
+		<hour value="6">
+			<kana>ろくじ</kana>
+			<kanji>六時</kanji>
+		</hour>
+		<hour value="7">
+			<kana>しちじ</kana>
+			<kanji>七時</kanji>
+		</hour>
+		<hour value="8">
+			<kana>はちじ</kana>
+			<kanji>八時</kanji>
+		</hour>
+		<hour value="9">
+			<kana>くじ</kana>
+			<kanji>九時</kanji>
+		</hour>
+		<hour value="10">
+			<kana>じゅうじ</kana>
+			<kanji>十時</kanji>
+		</hour>
+		<hour value="11">
+			<kana>じゅういちじ</kana>
+			<kanji>十一時</kanji>
+		</hour>
+		<hour value="12">
+			<kana>じゅうにじ</kana>
+			<kanji>十二時</kanji>
+		</hour>
+		<hour value="13">
+			<kana>じゅうさんじ</kana>
+			<kanji>十三時</kanji>
+		</hour>
+		<hour value="14">
+			<kana>じゅうよじ</kana>
+			<kanji>十四時</kanji>
+		</hour>
+		<hour value="15">
+			<kana>じゅうごじ</kana>
+			<kanji>十五時</kanji>
+		</hour>
+		<hour value="16">
+			<kana>じゅうろくじ</kana>
+			<kanji>十六時</kanji>
+		</hour>
+		<hour value="17">
+			<kana>じゅうしちじ</kana>
+			<kanji>十七時</kanji>
+		</hour>
+		<hour value="18">
+			<kana>じゅうはちじ</kana>
+			<kanji>十八時</kanji>
+		</hour>
+		<hour value="19">
+			<kana>じゅうくじ</kana>
+			<kanji>十九時</kanji>
+		</hour>
+		<hour value="20">
+			<kana>にじゅうじ</kana>
+			<kanji>二十時</kanji>
+		</hour>
+		<hour value="21">
+			<kana>にじゅういちじ</kana>
+			<kanji>二十一時</kanji>
+		</hour>
+		<hour value="22">
+			<kana>にじゅうにじ</kana>
+			<kanji>二十二時</kanji>
+		</hour>
+		<hour value="23">
+			<kana>にじゅうさんじ</kana>
+			<kanji>二十三時</kanji>
+		</hour>
+		<hour value="24">
+			<kana>にじゅよじ・れいじ</kana>
+			<kanji>二十四時</kanji>
+		</hour>
+	</hours>
+</date_and_time>
